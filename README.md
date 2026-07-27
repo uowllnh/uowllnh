@@ -47,7 +47,7 @@ React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있�
 
 #### 📌 Projects
 
-### 🌶️ Yeopdduk Web Redesign
+### 🌶️ 엽기떡볶이 Web Redesign
 
 엽기떡볶이 웹서비스를 사용자 중심으로 리디자인한 개인 토이 프로젝트입니다.
 기존 서비스에서 메뉴를 찾기 어려운 점을 개선하고, 원하는 메뉴와 정보를 빠르게 확인할 수 있도록 구성했습니다.
@@ -62,7 +62,7 @@ React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있�
   <img src="https://img.shields.io/badge/Responsive_Web-00A98F?style=flat-square"/>
 </p>
 
-[🔗 GitHub](깃허브-저장소-주소) · [🌐 Live Demo](배포-주소)
+[🔗 GitHub](https://github.com/uowllnh/yupdduk) · [🌐 Live Demo](https://yupddeok.web.app/)
 
 ---
 
@@ -82,7 +82,7 @@ React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있�
   <img src="https://img.shields.io/badge/Team_Project-4A90E2?style=flat-square"/>
 </p>
 
-[🔗 GitHub](깃허브-저장소-주소)
+[🔗 GitHub](https://github.com/uowllnh/Yoring)
 
 ---
 
@@ -101,7 +101,7 @@ React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있�
   <img src="https://img.shields.io/badge/Planner-457B9D?style=flat-square"/>
 </p>
 
-[🔗 GitHub](깃허브-저장소-주소) · [🌐 Live Demo](배포-주소)
+[🌐 Live Demo](비공개)
 
 ---
 
@@ -116,6 +116,29 @@ React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있�
 * 반응형 웹 디자인
 * 재사용 가능한 커스텀 훅과 컴포넌트 구현
 
+---
+
+### 💍 Wedding Invitation
+Next.js와 Firebase를 활용한 모바일 청첩장 서비스
+
+- 모바일 반응형 UI
+- 카카오톡 공유
+- 참석 여부 전달
+- Firebase Hosting 배포
+
+[🔗 GitHub](https://github.com/uowllnh/wedding-invitation-template) · [🌐 Live Demo](https://wedding-project-uowllnh.web.app/)
+
+
+### 🐶 Pet Management App
+반려동물의 예방접종과 건강 정보를 관리하는 애플리케이션
+
+- Flutter 기반 애플리케이션
+- 예방접종 일정 관리
+- 반려동물 정보 등록
+
+[🌐 Live Demo](비공개)
+
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -129,12 +152,12 @@ React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있�
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uowllnh&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uowllnh&layout=compact)
 
 ## 📫 Contact
 
-- Blog: [Velog](https://velog.io/@아이디)
-- Portfolio: [Portfolio](https://포트폴리오주소.com)
-- Email: example@email.com
+- Blog: [Velog](https://velog.io/@pooh00316)
+- Portfolio: [Portfolio](https://uowllnh.github.io/portfolio/)
+- Email: poohkim0316@naver.com
