@@ -63,15 +63,23 @@ React와 TypeScript를 중심으로 웹과 모바일 프론트엔드 개발 역�
 사용자가 원하는 메뉴와 정보를 빠르게 찾을 수 있도록 메뉴 구조와 화면 구성을 개선했습니다.
 
 * 메뉴 탐색 구조 개선
-* 사용자 중심 UI/UX 리디자인
-* 메뉴 정보 비교 화면 구현
-* 다양한 화면 크기를 고려한 반응형 웹 구현
+* 메뉴 리스트 UI 개선
+* 주문 옵션 선택 화면 개선
+* 주문 내역 확인 UX 개선
+
 
 <p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Personal_Project-6C63FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UI%2FUX_Redesign-FF6B6B?style=flat-square"/>
   <img src="https://img.shields.io/badge/Responsive_Web-00A98F?style=flat-square"/>
 </p>
+
 
 [🔗 GitHub](https://github.com/uowllnh/yupdduk) · [🌐 Live Demo](https://yupddeok.web.app/)
 
@@ -128,7 +136,6 @@ React와 TypeScript를 중심으로 웹과 모바일 프론트엔드 개발 역�
 * 개인·팀 프로젝트 분류 및 소개
 * 프로젝트 상세 모달
 * 스크롤 기반 애니메이션
-* 반응형 웹 디자인
 * 재사용 가능한 컴포넌트 구현
 * Figma를 활용한 UI 설계
 * Firebase Hosting 배포
@@ -180,15 +187,11 @@ React와 Next.js를 기반으로 제작한 모바일 청첩장 웹서비스입�
 
 반려동물의 산책 기록과 예방접종·건강 정보를 관리할 수 있도록 제작한 Flutter 기반 반려동물 관리 애플리케이션입니다.
 
-* 회원가입 및 이메일·Google 로그인
 * 반려동물 정보 등록 및 관리
 * 반려동물 프로필 이미지 관리
 * GPS 기반 실시간 위치 추적
 * 산책 시작·일시정지·종료
 * 산책 경로 지도 표시
-* 산책 시간·거리·칼로리 기록
-* 일간·월간 산책 통계
-* 산책 기록 목록 및 상세 조회
 * 건강검진 및 예방접종 일정 관리
 
 <p>
