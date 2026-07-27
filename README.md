@@ -3,39 +3,129 @@
 사용자 경험을 고민하며 서비스를 개발합니다.  
 React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있습니다.
 
-## 🛠 Tech Stack
+## 🛠 SKILLS
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### Front-End
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### Languages
 
-## 📌 Projects
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-### 💍 Wedding Invitation
-Next.js와 Firebase를 활용한 모바일 청첩장 서비스
+### Back-End / BaaS
 
-- 모바일 반응형 UI
-- 카카오톡 공유
-- 참석 여부 전달
-- Firebase Hosting 배포
+<p>
+  <img src="https://img.shields.io/badge/Firebase%20Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-### 🐶 Pet Management App
-반려동물의 예방접종과 건강 정보를 관리하는 애플리케이션
+### Tools / Deployment
 
-- Flutter 기반 애플리케이션
-- 예방접종 일정 관리
-- 반려동물 정보 등록
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+#### 📌 Projects
+
+### 🌶️ Yeopdduk Web Redesign
+
+엽기떡볶이 웹서비스를 사용자 중심으로 리디자인한 개인 토이 프로젝트입니다.
+기존 서비스에서 메뉴를 찾기 어려운 점을 개선하고, 원하는 메뉴와 정보를 빠르게 확인할 수 있도록 구성했습니다.
+
+* 메뉴 탐색 구조 개선
+* 사용자 중심의 UI/UX 리디자인
+* 메뉴 정보를 쉽게 비교할 수 있는 화면 구성
+
+<p>
+  <img src="https://img.shields.io/badge/Personal_Project-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UI%2FUX_Redesign-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Responsive_Web-00A98F?style=flat-square"/>
+</p>
+
+[🔗 GitHub](깃허브-저장소-주소) · [🌐 Live Demo](배포-주소)
+
+---
+
+### 📱 Yoring
+
+사용자 데이터를 기반으로 적합한 통신 요금제를 추천해 주는 모바일 애플리케이션입니다.
+프론트엔드 개발과 전체 UI 설계를 담당했습니다.
+
+* 사용자 정보 기반 요금제 추천
+* 요금제 정보 조회 및 비교
+* 모바일 UI 설계 및 구현
+* 팀원과의 API 연동 및 협업
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Team_Project-4A90E2?style=flat-square"/>
+</p>
+
+[🔗 GitHub](깃허브-저장소-주소)
+
+---
+
+### ⏱️ Meta Planner
+
+뽀모도로 집중 기법을 활용하여 일정과 집중 시간을 관리할 수 있는 플래너 애플리케이션입니다.
+
+* 뽀모도로 타이머
+* 일정 및 할 일 관리
+* 집중 시간 기록
+* 직관적인 일정 관리 UI
+
+<p>
+  <img src="https://img.shields.io/badge/Productivity-FF9F1C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pomodoro_Timer-E63946?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Planner-457B9D?style=flat-square"/>
+</p>
+
+[🔗 GitHub](깃허브-저장소-주소) · [🌐 Live Demo](배포-주소)
+
+---
+
+### 💻 Portfolio Website
+
+프로젝트와 개발 경험을 소개하기 위해 제작한 개인 포트폴리오 웹사이트입니다.
+사용자의 스크롤과 화면 전환에 따라 자연스럽게 콘텐츠가 나타나도록 인터랙션을 구현했습니다.
+
+* 개인·팀 프로젝트 분류 및 소개
+* 프로젝트 상세 모달
+* 스크롤 기반 애니메이션
+* 반응형 웹 디자인
+* 재사용 가능한 커스텀 훅과 컴포넌트 구현
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lottie-00DDB3?style=flat-square&logo=lottiefiles&logoColor=white"/>
+</p>
+
+[🔗 GitHub](https://github.com/uowllnh/uowllnh.github.io) · [🌐 Portfolio](https://uowllnh.github.io)
+
 
 ## 📊 GitHub Stats
 
