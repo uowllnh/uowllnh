@@ -1,4 +1,4 @@
-# 안녕하세요, 프론트엔드 개발자 김유리입니다 👋
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f22ff547-9c6d-4d1a-bc7e-159dbad2702b" /># 안녕하세요, 프론트엔드 개발자 김유리입니다 👋
 
 사용자 경험을 고민하며 서비스를 개발합니다.  
 React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있습니다.
@@ -17,6 +17,7 @@ React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있�
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### Languages
@@ -96,12 +97,12 @@ React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있�
 * 직관적인 일정 관리 UI
 
 <p>
-  <img src="https://img.shields.io/badge/Productivity-FF9F1C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pomodoro_Timer-E63946?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Planner-457B9D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white"/>
 </p>
 
-[🌐 Live Demo](비공개)
+🔒 **Repository: 비공개**
 
 ---
 
@@ -116,6 +117,14 @@ React와 TypeScript를 중심으로 프론트엔드 개발을 공부하고 있�
 * 반응형 웹 디자인
 * 재사용 가능한 커스텀 훅과 컴포넌트 구현
 
+  <p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Personal_Project-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UI%2FUX_Redesign-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Responsive_Web-00A98F?style=flat-square"/>
+</p>
+
+
 ---
 
 ### 💍 Wedding Invitation
@@ -126,26 +135,43 @@ Next.js와 Firebase를 활용한 모바일 청첩장 서비스
 - 참석 여부 전달
 - Firebase Hosting 배포
 
+<p>
+  <img src="https://img.shields.io/badge/Personal_Project-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UI%2FUX_Redesign-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Responsive_Web-00A98F?style=flat-square"/>
+</p>
+
 [🔗 GitHub](https://github.com/uowllnh/wedding-invitation-template) · [🌐 Live Demo](https://wedding-project-uowllnh.web.app/)
 
+---
 
-### 🐶 Pet Management App
-반려동물의 예방접종과 건강 정보를 관리하는 애플리케이션
+## 🐾 Pet Walk
 
-- Flutter 기반 애플리케이션
-- 예방접종 일정 관리
-- 반려동물 정보 등록
+반려동물의 산책 기록과 예방접종·건강 정보를 관리할 수 있는 Flutter 기반 반려동물 관리 애플리케이션
 
-[🌐 Live Demo](비공개)
-
+- 산책 경로 지도 표시
+- 산책 시간·거리·칼로리 기록
+- 일간·월간 산책 통계
+- 산책 기록 목록 및 상세 조회
+- 건강검진 및 예방접종 일정 관리
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lottie-00DDB3?style=flat-square&logo=lottiefiles&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riverpod-00A8E8?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Sign--In-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+
+🔒 **Repository: 비공개**
+
 
 [🔗 GitHub](https://github.com/uowllnh/uowllnh.github.io) · [🌐 Portfolio](https://uowllnh.github.io)
 
