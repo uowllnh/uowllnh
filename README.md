@@ -209,22 +209,3 @@ React와 Next.js를 기반으로 제작한 모바일 청첩장 웹서비스입�
 🔒 **Repository: Private**
 
 <br/>
-
-## 📊 GitHub Stats
-
-<p>
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=uowllnh&show_icons=true&hide_rank=true"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=uowllnh&layout=compact"
-    alt="Top Languages"
-  />
-</p>
-
-## 📫 Contact
-
-* **Blog:** [Velog](https://velog.io/@pooh00316)
-* **Portfolio:** [uowllnh.github.io/portfolio](https://uowllnh.github.io/portfolio/)
-* **Email:** [poohkim0316@naver.com](mailto:poohkim0316@naver.com)
