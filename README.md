@@ -214,8 +214,7 @@ React와 Next.js를 기반으로 제작한 모바일 청첩장 웹서비스입�
 
 <p>
 </p>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=uowllnh)](https://github.com/uowllnh/github-readme-stats)
-
+[![uowllnh's GitHub stats](https://github-stats-extended.vercel.app/apiuowllnh=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uowllnh&layout=compact" alt="Top Languages"/>
 </p>
