@@ -1,9 +1,9 @@
-# 안녕하세요, 프론트엔드 개발자 김유리입니다 👋
+<h2> 안녕하세요, 프론트엔드 개발자 김유리입니다 👋 </h2>
 
 
 <br/>
 
-## 🌱 I'm currently learning
+<h2 align="center"> 🌱 I'm currently learning </h2>
 
 <h3 align="center"> Front-End </h3>
 
@@ -21,9 +21,11 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
+<br>
+
 <h3 align="center"> Languages </h3>
 
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,17 +33,21 @@
   <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white"/>
 </p>
 
+<br>
+
 <h3 align="center"> Back-End / BaaS </h3>
 
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
+<br>
+
 <h3 align="center"> Tools / Deployment </h3>
 
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -51,5 +57,3 @@
   <img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-
-<br/>
