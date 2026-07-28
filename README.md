@@ -213,14 +213,15 @@ React와 Next.js를 기반으로 제작한 모바일 청첩장 웹서비스입�
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=uowllnh&show_icons=true" alt="GitHub Stats"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=uowllnh&show_icons=true&hide_rank=true"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=uowllnh&layout=compact"
+    alt="Top Languages"
+  />
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uowllnh&layout=compact" alt="Top Languages"/>
-</p>
-
-<br/>
 
 ## 📫 Contact
 
