@@ -1,5 +1,3 @@
-<h2 align="center"> 안녕하세요, 프론트엔드 개발자 김유리입니다 👋 </h2>
-
 ![타이틀](welcomeToGithub.webp)
 
 <br/>
