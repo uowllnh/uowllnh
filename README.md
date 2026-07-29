@@ -1,4 +1,4 @@
-![타이틀](welcomeToGithub.webp)
+![타이틀](welcomeToGithub2.webp)
 
 <br/>
 
